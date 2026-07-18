@@ -36,3 +36,12 @@
   grid-template-rows: 70px 1fr;
   height: 100vh;
 }
+
+.topbar {
+  background-color: var(--bg-card);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+}
