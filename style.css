@@ -38,6 +38,7 @@
   height: 100vh;
 }
 
+<<<<<<< HEAD
 .menu {
   display: flex;
   flex-direction: column;
@@ -58,6 +59,8 @@
   color: var(--accent-blue);
 }
 
+=======
+>>>>>>> develop
 .topbar {
   background-color: var(--bg-card);
   border-bottom: 1px solid var(--border-color);
@@ -66,6 +69,7 @@
   justify-content: space-between;
   padding: 0 2rem;
 }
+<<<<<<< HEAD
 
 .search-box input {
   background-color: var(--bg-main);
@@ -87,3 +91,5 @@
   border-radius: 20px;
   font-weight: bold;
 }
+=======
+>>>>>>> develop
